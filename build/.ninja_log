@@ -1,0 +1,9 @@
+# ninja log v5
+3	55	7337632759622342	CMakeFiles/first_project.dir/src/Singleton.cpp.obj	59806febe92d814e
+7	237	7337659740670662	CMakeFiles/first_project.dir/src/main.cpp.obj	58c391110efadc49
+0	171	7337632760787084	CMakeFiles/first_project.dir/src/User.cpp.obj	76b28fa6f5e58760
+237	297	7337659741230577	first_project.exe	4084fca07392937c
+5	172	7337659740011126	CMakeFiles/first_project.dir/src/CarFactory.cpp.obj	86c069c7d7f4f5c7
+2	182	7337659740134960	CMakeFiles/first_project.dir/src/Car.cpp.obj	2d6d8202914697f8
+1	300	7337699153007907	CMakeFiles/first_project.dir/src/main.cpp.obj	58c391110efadc49
+300	359	7337699153573468	first_project.exe	4084fca07392937c
